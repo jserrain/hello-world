@@ -1,3 +1,7 @@
+/**
+Proverbios y cantares (XXIX)
+**/
+
 Caminante, son tus huellas
 el camino y nada más;
 Caminante, no hay camino,
@@ -8,3 +12,5 @@ se ve la senda que nunca
 se ha de volver a pisar.
 Caminante no hay camino
 sino estelas en la mar.
+
+Fi.
